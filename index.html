@@ -2,11 +2,11 @@
 <html>
 <head>
     <title>4x4 Table</title>
-</head>
+</head><style>th{background-color:red;}</style>
 <body>
-    <table border="1">
+    <table border="5" style="color:blue;">
         <tr>
-            <td>1,1</td>
+            <td style="font-size="200%";>1,1</td>
             <td>1,2</td>
             <td>1,3</td>
             <td>1,4</td>
