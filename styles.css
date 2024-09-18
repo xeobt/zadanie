@@ -1,9 +1,9 @@
 body {
   background-color: powderblue;
 }
-td {
+tr {
   color: blue;
 }
-p {
+td {
   color: red;
 }
